@@ -1,4 +1,4 @@
-<h1 align="center">halalfoodfinder</h1>
+<h1 align="center">goHalalSG</h1>
 
   <p align="center">
     Find your favorite halal foods near you!
