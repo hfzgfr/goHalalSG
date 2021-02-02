@@ -13,7 +13,7 @@ Restaurant Review
 <img src="review.png">
 
 #### React App Objectives
-This is a collaborative app created by me, Muhammad Saiful & Muhammad Hafiz.
+This is a collaborative web application created by myself, Muhammad Saiful & Khairul Syazwan.
 
 A first world problem that we always face is finding a halal restaurant to eat at whenever we're somewhere unfamilliar. Having realised that Google searches dont do much justice, giving innacurate or outdated information, and there are no resources available to show us what are the nearest halal restaurants nearby, we decided to create this app to ease the search and thought process of finding a suitable place to eat.
 
