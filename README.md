@@ -1,5 +1,5 @@
 ## Introduction
-App is hosted here - https://gohalalsg.herokuapp.com/
+The App is hosted here! - https://gohalalsg.herokuapp.com/
 
 Splash Screen
 <img src="splash.png">
@@ -15,9 +15,11 @@ Restaurant Review
 #### React App Objectives
 This is a collaborative web application created by myself, Muhammad Saiful & Khairul Syazwan.
 
-A first world problem that we always face is finding a halal restaurant to eat at whenever we're somewhere unfamilliar. Having realised that Google searches dont do much justice, giving innacurate or outdated information, and there are no resources available to show us what are the nearest halal restaurants nearby, we decided to create this app to ease the search and thought process of finding a suitable place to eat.
+A first world problem that we always face is finding a halal restaurant to eat at whenever we're at an unfamilliar location. 
+Having realised that Google searches does not do much justice, gave innacurate or even outdated information, and there are no resources available to show us what are the nearest halal restaurants nearby, we decided to create an application to ease the search and thought process of finding a suitable place to eat.
 
-Users are able to see where the restaurants are by the markers on the map, and see how far it is from their location. Users are also able to leave reviews on the restaurants.
+Users are able to see where the restaurants are by the markers on the map, and see how far it is from their location. 
+Users are also able to leave reviews on the restaurants.
 
 ## Breakdown
 
